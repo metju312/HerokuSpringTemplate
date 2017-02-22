@@ -172,7 +172,7 @@
     </li>
   </ol>
 
-  <h2>Step 2. Importing this App</h2>
+  <h2>Step 2. Importingthis App</h2>
   <ol>
     <li>Open <code>File</code><i class="icon-chevron-right"></i><code>Import</code> and expand the Heroku section
       <div class="modal hide" id="importAppSelect">
